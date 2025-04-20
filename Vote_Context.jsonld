@@ -48,8 +48,9 @@
       }
     }
   },
+  "authors": [],
   "body": {
-    "comment": "After thorough analysis and reviewing my delegators' feedback, five supporting via intra-DRep vote and two opposing, I have concluded that voting YES on this proposal is the best course of action. The data clearly shows that reducing the treasury cut from 20% to 10% strengthens staking incentives, enhances decentralization, and maintains treasury sustainability, particularly as ADA price appreciation offsets lower contributions. This adjustment aligns economic incentives with long-term growth, making Cardano more competitive and resilient."
+    "comment": "I'm voting No because, quite honestly, it just feels a bit too soon for something this big. Cardano is still growing. Governance, tooling, community trust… all of it is still finding its shape. We’re in a foundational phase, and moves like this need to be rooted in solid ground, not just good intentions.\n\nRaising spending limits this high without strong checks and balances already in place could do more harm than good. It's not that I don’t believe in investing in the future. It's that the ecosystem isn’t quite ready to manage that scale responsibly yet. These things need time. Strong roots before wide branches.\n\nAs a DRep, I feel a duty to take the long view. Protecting the treasury now means ensuring we still have one later. When our processes are mature. When oversight is real. When the community can handle this kind of responsibility with clarity and trust.\n\nLet’s keep building. Let’s get it right. Then we can revisit this with more confidence."
   },
   "hashAlgorithm": "blake2b-256"
 }
